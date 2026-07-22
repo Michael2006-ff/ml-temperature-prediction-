@@ -64,7 +64,7 @@ mlmodel/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ml-temperature-prediction.git
+git clone https://github.com/HaarisAbdullah/ml-temperature-prediction.git
 cd ml-temperature-prediction
 ```
 
